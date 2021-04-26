@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\brocc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\brocc\\.nuget\\packages"
+    ]
+  }
+}
